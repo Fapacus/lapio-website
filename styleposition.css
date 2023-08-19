@@ -3,24 +3,48 @@
       height: 100px;
       background-color: red;
       margin: 10px;
+      padding-top: 10px;
+      padding-bottom: 40px;
+      border: 10px solid green;
+      display: flex;
+      align-items: center;
+      text-align: center;
+      color: blue;
+      text-transform: uppercase;
     }
 
     .second-box-container {
       position: relative;
-      left: 220px;
-      top: -116px;
+      left: 240px;
+      top: -179px;
       width: 200px;
       height: 100px;
       background-color: yellow;
       margin: 10px;
+      padding-bottom: 50px;
+      border: 10px solid red;
+      display: flex;
+      align-items: center;
+      text-align: center;
+      color: blue;
+      text-transform: uppercase;
+      justify-content: center;
     }
 
     .third-box-container {
       position: relative;
-      left: 440px;
-      top: -232px;
+      left: 480px;
+      top: -358px;
       width: 200px;
       height: 100px;
       background-color: green;
       margin: 10px;
+      padding-bottom: 50px;
+      border: 10px solid yellow;
+      display: flex;
+      text-align: center;
+      align-items: center;
+      color: blue;
+      text-transform: uppercase;
+      justify-content: center;
     }
